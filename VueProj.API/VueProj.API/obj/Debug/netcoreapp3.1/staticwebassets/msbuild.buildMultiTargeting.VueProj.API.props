@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VueProj.API.props" />
+</Project>
